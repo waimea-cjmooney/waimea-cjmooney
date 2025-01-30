@@ -1,6 +1,8 @@
-
 ![image](https://github.com/user-attachments/assets/a0932b3c-b490-4b31-9dc3-6daab3563349)
 
+- Can code. (Sometimes.)
+- Is funny. (Never.)
+- Sucks butt. (Figuratively.)
 
 <!--
 **waimea-cjmooney/waimea-cjmooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
