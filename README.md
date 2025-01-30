@@ -1,6 +1,3 @@
-## Hi there 👋
-
-I'm awesome 600.
 
 ![image](https://github.com/user-attachments/assets/a0932b3c-b490-4b31-9dc3-6daab3563349)
 
